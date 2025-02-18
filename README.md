@@ -10,7 +10,7 @@ Welcome to **my_hunter**, a 2D shooting game built in **CSFML** where your goal 
 
 ## 🚀 Features
    • Fun gameplay with increasing difficulty.  
-   • Colorful 2D graphics 
+   • Colorful 2D graphics   
    • Smooth animations and fluid mechanics.  
 
 ## 🛠️ Installation & Compilation
