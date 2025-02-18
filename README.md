@@ -6,7 +6,7 @@
 Welcome to **my_hunter**, a 2D shooting game built in **CSFML** where your goal is to **shoot flying candies** before they escape. Can you stop the sugar rush?
 
 ## 📸 Screenshots
-
+![Gameplay GIF](src/my_hunter.gif)
 
 ## 🚀 Features
    • Fun gameplay with increasing difficulty.  
